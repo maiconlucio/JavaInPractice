@@ -20,6 +20,12 @@ public class Teste2 {
         * to the screen, and it is amazing
         */
          System.out.println("Hello World"); //this is a comment
+         String nome = "Maicon Lucio de Jesus";
+         final int numero = 200;
+                 
+         System.out.println(nome); //Lerning variaveis
+         System.out.println(numero);
+         
            
 }
                 
